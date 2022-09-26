@@ -17,7 +17,7 @@ I am a university student and I am interested in web Develope and Hacking
 
 - 🌱 I’m currently learning abuout Security(Web Hacking and Pwnable) and Machine Learing
 -  ⚔️ I'm not good at them yet but I'm trying hard to do well
-- 저랑 같이 python관련 프로젝트(머신러닝이여도 좋고 아니여도 상관없습니다)나 해킹관련 공부 하실 분들은 여기로 연락주세요 <a href="http://qr.kakao.com/talk/PrIHOnfzL6.0G3vOUniPzTiEoSc-"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=brawn"/></a>
+- 저랑 같이 python관련 프로젝트(머신러닝이여도 좋고 아니여도 상관없습니다)나 해킹관련 공부 하실 분들은 여기로 연락주세요 <a href="https://www.instagram.com/minje8170/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 
 
