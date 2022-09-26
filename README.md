@@ -17,7 +17,7 @@ I am a university student and I am interested in web Develope and Hacking
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=polring&show_icons=false&theme=dracula)
 
-![TOP Langs](https://github-readme-status.vercel.app/api/top-langs/?username=polring&show_icons=false&theme=dracula&layout=compact)]
+![TOP Langs](https://github-readme-status.vercel.app/api/top-langs/?username=polring&show_icons=false&theme=dracula&layout=compact&langs-counts=10)]
 
 
 - 🌱 I’m currently learning abuout Security(Web Hacking and Pwnable) and Machine Learing
