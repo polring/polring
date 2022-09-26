@@ -15,9 +15,9 @@ I am a university student and I am interested in web Develope and Hacking
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=green"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=orange"/> 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=polring&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=polring&show_icons=false&theme=dracula)
 
-![TOP Langs](https://github-readme-status.vercel.app/api/top-langs/?username=polring&show_icons=true&theme=dracula)]
+![TOP Langs](https://github-readme-status.vercel.app/api/top-langs/?username=polring&show_icons=false&theme=dracula)]
 
 - 🌱 I’m currently learning abuout Security(Web Hacking and Pwnable) and Machine Learing
 -  ⚔️ I'm not good at them yet but I'm trying hard to do well
