@@ -17,6 +17,6 @@ I am a university student and I am interested in web Develope and Hacking
 ![TOP Langs](https://github-readme-status.vercel.app/api/top-langs/?username=polring&show_icons=true&theme=dracula)]
 
 - 🌱 I’m currently learning abuout Security(Web Hacking and Pwnable) and Machine Learing
-_ ⚔️ I'm not good at them yet but I'm trying hard to do well
+-  ⚔️ I'm not good at them yet but I'm trying hard to do well
 
 
