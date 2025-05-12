@@ -16,7 +16,6 @@ I am a university student and I am interested in web Develope and Hacking
 
 ![TOP Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polring&show_icons=false&theme=dracula&layout=compact&langs-counts=10)]
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/polringFhit-counter"/></a>
 - 🌱 I’m currently learning abuout Security(Web Hacking and Pwnable) and Machine Learing
 -  ⚔️ I'm not good at them yet but I'm trying hard to do well
 
